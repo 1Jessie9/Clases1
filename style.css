@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(212, 212, 152);
+}
+#titulo{
+    background-color: orange;
+    margin: 50px;
+    border:5px dotted black;
+ /* arriba */
+ padding: 50px 30px 30px 30px;
+}
